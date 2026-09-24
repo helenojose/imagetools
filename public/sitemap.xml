@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+
+  <url>
+    <loc>https://SEU-SITE.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://SEU-SITE.vercel.app/converter</loc>
+  </url>
+
+  <url>
+    <loc>https://SEU-SITE.vercel.app/remover-fundo</loc>
+  </url>
+
+  <url>
+    <loc>https://SEU-SITE.vercel.app/sobre</loc>
+  </url>
+
+  <url>
+    <loc>https://SEU-SITE.vercel.app/privacidade</loc>
+  </url>
+
+  <url>
+    <loc>https://SEU-SITE.vercel.app/termos</loc>
+  </url>
+
+</urlset>
