@@ -124,9 +124,9 @@
       <h2>9. Contato</h2>
 
       <p>
-        Para dúvidas ou solicitações relacionadas à privacidade, será
-        disponibilizado um endereço de contato específico do ImageTools
-        nesta página.
+        Para dúvidas ou solicitações relacionadas à privacidade, utilize
+        a página de <RouterLink to="/contato">Contato</RouterLink>. Um endereço
+        de e-mail oficial deve ser informado ali antes da publicação.
       </p>
 
     </div>

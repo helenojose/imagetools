@@ -71,8 +71,8 @@
       <h2>8. Contato</h2>
 
       <p>
-        Para dúvidas sobre estes Termos, utilize o canal de contato
-        disponibilizado no site.
+        Para dúvidas sobre estes Termos, utilize a página de
+        <RouterLink to="/contato">Contato</RouterLink>.
       </p>
 
     </div>

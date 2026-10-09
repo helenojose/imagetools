@@ -352,6 +352,32 @@ function escolherOutra() {
 
     </div>
 
+    <section class="content-section tool-guide">
+      <h2>Como remover o fundo de uma imagem</h2>
+      <ol>
+        <li>Escolha uma imagem PNG, JPG ou WEBP.</li>
+        <li>Aguarde enquanto a ferramenta analisa a imagem e processa o recorte.</li>
+        <li>Confira o resultado e baixe o arquivo PNG com fundo transparente.</li>
+      </ol>
+      <p>O primeiro processamento pode demorar mais porque o navegador pode precisar carregar os recursos do modelo. Imagens grandes e dispositivos com pouca memória também podem aumentar o tempo de espera.</p>
+
+      <h2>Quando usar uma imagem sem fundo?</h2>
+      <div class="format-guide">
+        <article><h3>Fotos de produtos</h3><p>Ajude a destacar um produto em catálogos, lojas virtuais e materiais promocionais.</p></article>
+        <article><h3>Apresentações e documentos</h3><p>Coloque uma pessoa, objeto ou ilustração sobre outro fundo sem manter o cenário original.</p></article>
+        <article><h3>Conteúdo digital</h3><p>Prepare imagens para posts, miniaturas e peças gráficas, respeitando os direitos de uso do arquivo original.</p></article>
+      </div>
+
+      <h2>Dicas para um resultado melhor</h2>
+      <ul><li>Prefira imagens nítidas e bem iluminadas.</li><li>Procure usar fotos em que o objeto principal se diferencie do fundo.</li><li>Confira cabelos, pelos, objetos transparentes e bordas finas, pois podem ser mais difíceis de recortar.</li><li>Se o resultado não ficar bom, tente outra imagem ou uma versão com melhor resolução.</li></ul>
+
+      <h2>Perguntas frequentes</h2>
+      <details><summary>Em qual formato posso baixar o resultado?</summary><p>O resultado é disponibilizado em PNG, que permite preservar a transparência do fundo removido.</p></details>
+      <details><summary>A ferramenta funciona com qualquer imagem?</summary><p>Ela aceita PNG, JPG e WEBP de até 100 MB, mas o resultado varia conforme a imagem, o dispositivo e os recursos disponíveis no navegador.</p></details>
+      <details><summary>Minha imagem é enviada para um servidor do ImageTools?</summary><p>O processamento é executado no navegador. Para carregar os recursos técnicos necessários, a aplicação pode buscar arquivos externos. Consulte a Política de Privacidade para detalhes.</p></details>
+      <details><summary>Por que o processamento demora?</summary><p>A análise pode exigir recursos significativos do dispositivo. O primeiro uso também pode demorar mais por causa do carregamento dos arquivos necessários.</p></details>
+    </section>
+
   </div>
 
 </template>

@@ -59,6 +59,13 @@
         Política de Privacidade.
       </p>
 
+      <h2>Como o projeto funciona</h2>
+      <p>O ImageTools busca manter cada tarefa simples e objetiva. A conversão utiliza recursos do navegador para gerar um novo arquivo. A remoção de fundo usa um modelo de processamento que pode exigir mais memória e tempo, especialmente na primeira utilização.</p>
+      <p>Os resultados automáticos podem precisar de conferência, sobretudo em imagens com bordas complexas, cabelos, transparências ou fundos visualmente semelhantes ao objeto principal.</p>
+
+      <h2>Contato</h2>
+      <p>Se encontrar dificuldades ou quiser sugerir melhorias, acesse nossa página de <RouterLink to="/contato">Contato</RouterLink>.</p>
+
       <h2>Objetivo</h2>
 
       <p>

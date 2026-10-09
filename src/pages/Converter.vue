@@ -382,6 +382,29 @@ function escolherOutra() {
 
     </div>
 
+    <section class="content-section tool-guide">
+      <h2>Como converter uma imagem</h2>
+      <ol>
+        <li>Selecione uma imagem PNG, JPG ou WEBP, ou arraste o arquivo para a área de envio.</li>
+        <li>Escolha o formato de saída desejado.</li>
+        <li>Clique em <strong>Converter e baixar</strong> para salvar o novo arquivo.</li>
+      </ol>
+      <p>O processamento é feito no navegador. Arquivos de até 100 MB podem ser selecionados, mas imagens muito grandes podem consumir bastante memória e demorar mais, dependendo do dispositivo.</p>
+
+      <h2>Qual formato de imagem escolher?</h2>
+      <div class="format-guide">
+        <article><h3>PNG</h3><p>É uma boa escolha para gráficos, capturas de tela, logos e imagens que precisam manter áreas transparentes. O arquivo pode ficar maior que uma versão JPG.</p></article>
+        <article><h3>JPG</h3><p>É bastante utilizado em fotografias. Não oferece transparência; por isso, áreas transparentes são preenchidas com branco durante a conversão para JPG.</p></article>
+        <article><h3>WEBP</h3><p>É um formato moderno usado na web que pode reduzir o tamanho do arquivo com boa qualidade. A compatibilidade depende do programa ou serviço em que a imagem será utilizada.</p></article>
+      </div>
+
+      <h2>Perguntas frequentes</h2>
+      <details><summary>Posso converter PNG para JPG?</summary><p>Sim. Escolha a imagem PNG, selecione JPG como formato de saída e inicie a conversão. A transparência não é preservada em JPG.</p></details>
+      <details><summary>A conversão reduz a qualidade?</summary><p>O resultado depende do formato escolhido. JPG e WEBP podem utilizar compressão com perda; PNG é normalmente usado quando se deseja evitar esse tipo de perda na codificação.</p></details>
+      <details><summary>Preciso instalar um programa?</summary><p>Não. A ferramenta funciona no navegador. O tempo de processamento depende do tamanho da imagem e dos recursos disponíveis no dispositivo.</p></details>
+      <details><summary>Minhas imagens são enviadas para o ImageTools?</summary><p>A conversão desta ferramenta é realizada localmente no navegador e não exige envio da imagem para um servidor próprio do ImageTools.</p></details>
+    </section>
+
   </div>
 
 </template>
